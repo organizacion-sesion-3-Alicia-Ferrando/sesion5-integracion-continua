@@ -1,6 +1,6 @@
 /* Función par */
 var par = function par (a) {
-	return a % 2 > 0;	
+	return (a % 2) > 0;	
 };
 
 
