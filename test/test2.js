@@ -9,9 +9,9 @@ var operaciones = require('../operations.js');
 // Test
 it('comprobar función par', function() {
   operaciones.par.should.be.a.Function();
-  should.equal(operaciones.par(2), true);
-  should.equal(operaciones.par(1), false);
-	should.equal(operaciones.par(-1), false);
+  should.equal(operaciones.par(2),true);
+  should.equal(operaciones.par(1),false);
+	should.equal(operaciones.par(-1),false);
 });
 
 
