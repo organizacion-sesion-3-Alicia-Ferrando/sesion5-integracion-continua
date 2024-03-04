@@ -1,6 +1,6 @@
 {
     "name": "",
-    "version": "1.1.0",
+    "version": "",
     "description": "Ejemplo de Desarrollo Guiado por Test en Node JS",
     "main": "index.js",
     "scripts": {
